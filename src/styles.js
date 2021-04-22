@@ -36,6 +36,8 @@ const useStyles = makeStyles((theme) => ({
             color: '#fff',
         }
     },
+
+    
     inputFile : {
        padding : '10px 0'
     },
